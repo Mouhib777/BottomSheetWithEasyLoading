@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:iheb_thouabtia1/providers/auth_provider.dart';
-import 'package:iheb_thouabtia1/screens/onBoardScreen.dart';
-import 'package:iheb_thouabtia1/screens/registreScreen.dart';
-import 'package:iheb_thouabtia1/screens/registre_sucess.dart';
-import 'package:iheb_thouabtia1/screens/splash/welcomePage.dart';
+import 'package:....../providers/auth_provider.dart';
+import 'package:....../screens/onBoardScreen.dart';
+import 'package:....../screens/registreScreen.dart';
+import 'package:....../screens/registre_sucess.dart';
+import 'package:....../screens/splash/welcomePage.dart';
 import 'package:provider/provider.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter_easyloading/flutter_easyloading.dart';
